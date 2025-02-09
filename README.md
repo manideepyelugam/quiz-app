@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/manideepyelugam/quiz-app.git
    cd quiz-app/backend
    ```
 2. Install dependencies:
